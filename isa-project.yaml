@@ -1,0 +1,4 @@
+repository_url: https://github.com/megkirch/P6pup_112822.git
+sessions:
+- quad5
+use_singularity_for_ffmpeg: false
