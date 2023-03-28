@@ -1,3 +1,8 @@
 audio_sr_hz: 200000
 dataset_id: quad5
 duration_sec: 603.396
+video_dims:
+- 1024
+- 1280
+video_sr_hz: 30.0
+video_uri: sha1://0eadc79bb8f36c18d79ea253b9c99934c27cd994
