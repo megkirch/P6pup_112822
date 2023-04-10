@@ -1,0 +1,8 @@
+audio_sr_hz: 200000
+dataset_id: quad3
+duration_sec: 603.396
+video_dims:
+- 1024
+- 1280
+video_sr_hz: 30.0
+video_uri: sha1://3ba9bb444f5244cdb763c1a9b180e38668eb7001
