@@ -28,6 +28,10 @@
 
 [Open session for visualization and editing](https://figurl.org/f?v=gs://figurl/neurostatslab-views-1dev6&d=sha1://5e8e68f6af67b45cc960c48a148c88e4b5e45dfa&s={"vocalizations":"gh://megkirch/P6pup_112822.git/main/quad7/annotations.uri"}&label=quad7)
 
+## quad8
+
+[Open session for visualization and editing](https://figurl.org/f?v=gs://figurl/neurostatslab-views-1dev6&d=sha1://ea4fb6739e7bb1876a6c9e6ae7a22e6938381b00&s={"vocalizations":"gh://megkirch/P6pup_112822.git/main/quad8/annotations.uri"}&label=quad8)
+
 ---
 
 This file was auto-generated.
