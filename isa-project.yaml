@@ -8,4 +8,5 @@ sessions:
 - quad6
 - quad7
 - quad8
+- quad9
 use_singularity_for_ffmpeg: false
