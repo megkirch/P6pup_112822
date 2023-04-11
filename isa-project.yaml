@@ -4,4 +4,5 @@ sessions:
 - quad1
 - quad2
 - quad3
+- quad4
 use_singularity_for_ffmpeg: false
